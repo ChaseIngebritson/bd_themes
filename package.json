@@ -1,0 +1,12 @@
+{
+  "name": "bd_themes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ChaseIngebritson/bd_themes.git",
+  "license": "MIT",
+  "homepage": "https://chaseingebritson.github.io/bd_themes/",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {}
+}
